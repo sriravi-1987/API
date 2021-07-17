@@ -141,3 +141,6 @@ C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\System.IdentityMode
 C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
