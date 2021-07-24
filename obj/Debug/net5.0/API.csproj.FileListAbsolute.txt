@@ -144,3 +144,6 @@ C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityM
 C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
 C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\HP\Desktop\DatingAPP\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
